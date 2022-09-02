@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_teleport shader
+  m_Shader: {fileID: -6465566751694194690, guid: 3da99f43d6e55fc4f952261416134c04, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors:
+    - Color_81C9DCB4: {r: 0.4575472, g: 0.6784112, b: 1, a: 0.23529412}
+    - Color_DEE90907: {r: 0.12941173, g: 0.13584858, b: 0.83137256, a: 0}
+  m_BuildTextureStacks: []
